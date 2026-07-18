@@ -5,7 +5,7 @@ A hands-on walkthrough of core OpenCV image processing operations using Python. 
 Features
 
 
-Image I/O & Resizing — load and resize images
+Image I/O & Resizing load and resize images
 Color Space Conversion — BGR → Grayscale, BGR → HSV
 Drawing Functions — lines, rectangles, circles, text overlays
 Blurring — Average, Gaussian, Median, Bilateral filters
