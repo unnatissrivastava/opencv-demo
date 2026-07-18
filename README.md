@@ -2,13 +2,13 @@ OpenCV Demo
 
 A hands-on walkthrough of core OpenCV image processing operations using Python. Covers reading/displaying images, resizing, color space conversion, drawing shapes, blurring, edge detection, thresholding, morphological transformations, and contour detection.
 
-Features
+Features:
 
 
 Image I/O & Resizing load and resize images
-Color Space Conversion — BGR → Grayscale, BGR → HSV
-Drawing Functions — lines, rectangles, circles, text overlays
-Blurring — Average, Gaussian, Median, Bilateral filters
+Color Space Conversion —> BGR → Grayscale, BGR → HSV
+Drawing Functions —> lines, rectangles, circles, text overlays
+Blurring —> Average, Gaussian, Median, Bilateral filters
 Edge Detection — Canny, Sobel X/Y, Laplacian
 Thresholding — Simple, Otsu, Adaptive Mean, Adaptive Gaussian
 Morphological Transformations — Erosion, Dilation, Opening, Closing
