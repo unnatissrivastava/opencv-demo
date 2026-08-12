@@ -11,7 +11,7 @@ A hands-on walkthrough of core OpenCV image processing operations using Python. 
 - **Edge Detection** : Canny, Sobel X/Y, Laplacian
 - **Thresholding** : Simple, Otsu, Adaptive Mean, Adaptive Gaussian
 - **Morphological Transformations** : Erosion, Dilation, Opening, Closing
-- **Contour Detection** — find and draw external contours
+- **Contour Detection** : find and draw external contours
 
 ## Requirements
 
