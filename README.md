@@ -8,7 +8,7 @@ A hands-on walkthrough of core OpenCV image processing operations using Python. 
 - **Color Space Conversion** : BGR → Grayscale, BGR → HSV
 - **Drawing Functions** : lines, rectangles, circles, text overlays
 - **Blurring** : Average, Gaussian, Median, Bilateral filters
-- **Edge Detection** — Canny, Sobel X/Y, Laplacian
+- **Edge Detection** : Canny, Sobel X/Y, Laplacian
 - **Thresholding** — Simple, Otsu, Adaptive Mean, Adaptive Gaussian
 - **Morphological Transformations** — Erosion, Dilation, Opening, Closing
 - **Contour Detection** — find and draw external contours
